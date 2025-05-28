@@ -13,12 +13,6 @@ cd yupis/problem3
 npm install
 ```
 
-### 2. Install the dependencies
-
-```bash
-npm install
-```
-
 ### 3. Run the project
 
 ```bash
